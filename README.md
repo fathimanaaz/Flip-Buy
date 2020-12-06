@@ -1,10 +1,6 @@
-Hello!!
+This the Flipbuy is the online shop to buy things 
+buy the things and enjoy!! 
 
-today iam going to share you redvelvet cupcakes
-
-beautiful, soft, dreamy red velvet cupcakes are as light and delicate as they are gorgeous and dramatic. They have just a touch of cocoa flavor and a subtle tang the goes perfectly with my Best-Ever Cream Cheese Frosting. Red velvet cupcakes are always a crowd pleaser!
-
-[Ingredient](https://images-na.ssl-images-amazon.com/images/I/61fkdeyq5QL._SL1024_.jpg)
-
-[Recipe](Recipe.md)
+[Iphone 12 pro max](https://images-na.ssl-images-amazon.com/images/I/61fkdeyq5QL._SL1024_.jpg)
+[Buy Now](orderPlaced.md)
 
