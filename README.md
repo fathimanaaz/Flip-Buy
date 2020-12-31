@@ -1,5 +1,12 @@
-This the Flipbuy is the online shop to buy things 
+Flipbuy is the online shop to buy things 
 buy the things and enjoy!! 
+
+
+
+
+
+
+
 
 ![POROTTA PHOTO](https://www.indidiet.com/wp-content/uploads/2019/07/Capture1-4.jpg)
 
