@@ -1,7 +1,7 @@
 This the Flipbuy is the online shop to buy things 
 buy the things and enjoy!! 
 
-[Iphone 12 pro max](https://images-na.ssl-images-amazon.com/images/I/61fkdeyq5QL._SL1024_.jpg)
+![POROTTA PHOTO](https://www.indidiet.com/wp-content/uploads/2019/07/Capture1-4.jpg)
 
 price:-1,00,000
 
